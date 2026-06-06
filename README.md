@@ -19,7 +19,7 @@ This repository contains four data science and machine learning coursework proje
 
 ---
 
-## COM735 — Churn Analysis: Optimizing Customer Retention Strategies in Telecom
+## Churn Analysis: Optimizing Customer Retention Strategies in Telecom
 
 **File:** `COM735-Churn-Analysis/churn_analysis.py`
 
@@ -45,7 +45,7 @@ This project investigates customer churn in the telecommunications sector using 
 
 ---
 
-## COM737 — Political Bias Detection in News Articles (NLP & Deep Learning)
+## Political Bias Detection in News Articles (NLP & Deep Learning)
 
 **File:** `COM737-Sentiment-Analysis/political_bias_detection.py`
 
@@ -71,7 +71,7 @@ A multi-class NLP classification project that detects the political leaning (Lef
 
 ---
 
-## COM740 — Loan Approval Prediction
+## Loan Approval Prediction
 
 **File:** `COM740-Loan-Approval/loan_approval.py`
 
@@ -99,7 +99,7 @@ This project builds a machine learning pipeline to predict whether a loan applic
 
 ---
 
-## Dissertation — Detecting Eczema Symptoms Using Classification Algorithms
+## Detecting Eczema Symptoms Using Classification Algorithms
 
 **File:** `Dissertation-Eczema-Detection/eczema_scratch_detection.py`
 
@@ -160,5 +160,3 @@ pip install wordcloud nltk plotly
 ## Author
 
 **Emmanuel Nonso Elege**
-MSc Data Science · University of Ulster, Magee Campus
-Registration No: B00994657
